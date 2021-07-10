@@ -2,8 +2,8 @@
 //  MasterViewController.swift
 //  MyFavBands
 //
-//  Created by Charles Konkol on 9/15/19.
-//  Copyright © 2019 Charles Konkol. All rights reserved.
+//  Created by Charles Konkol on 7/10/2021.
+//  Copyright © 2021 Charles Konkol. All rights reserved.
 //
 
 import UIKit
